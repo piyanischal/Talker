@@ -1,0 +1,32 @@
+h2{
+	font-size: 20px;
+}
+
+
+textarea {
+	width: 500px;
+
+
+}
+
+#language {
+	width: 400px;
+}
+
+
+#rate {
+	width:100px;
+}
+
+#pitch {
+	width:100px;
+}
+
+
+select #id{
+	width: 200px;
+}
+
+#textbox{
+	height: 200px;
+}
