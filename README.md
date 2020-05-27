@@ -1,6 +1,8 @@
 # Talker
 JavaScript Web Application 
 
+Link: piyanischal.github.io/talker.github.io/
+
 ## SpeechSynthesis 
 Enables user to record voice and gather information about the synthesis voice.
 
